@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PGFTDSEF
 
 [Document9]
-DocumentPath=SmartPowerRail.PcbDoc
+DocumentPath=SmartPowerRailselector1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +205,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OHTJXBGU
+DocumentUniqueId=WLAMGCXW
 
 [Parameter1]
 Name=CAGE_CODE
