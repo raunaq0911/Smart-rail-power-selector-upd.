@@ -224,6 +224,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFPRRUOO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs\Design Rule Check - SmartTrialPcbfile.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=CAGE_CODE
 Value=?????
