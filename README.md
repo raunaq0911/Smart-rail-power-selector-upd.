@@ -23,4 +23,4 @@ A compact hardware project demonstrating a selectable power rail system for elec
 1. Connect 3.3V, 5V, and 12V sources to the input pins (via jumper wires or mating connectors).
 2. Use the jumper to select the desired output rail.
 3. Observe the corresponding LED for visual confirmation.
-4. 4. Connect your load to the output pins.
+4. Connect the load to the output pins.
